@@ -14,6 +14,7 @@ Edunex [48923](https://edunex.itb.ac.id/courses/48923/preview), SK5003 Programmi
 
 
 ## task 01
++ Attending first session on Saturday, 11 March 2023, 07.00 using above Zoom link.
 + Create new GitHub account [here](https://github.com/signup).
 + For backup course materials and communication [fork this repository](https://github.com/dudung/sk5003-02-2022-2/fork).
 + Navigate repository `py-jupyter-nb` and [fork it](https://github.com/dudung/py-jupyter-nb/fork).
