@@ -11,3 +11,9 @@ Edunex [48923](https://edunex.itb.ac.id/courses/48923/preview), SK5003 Programmi
   Week 01-10 (first session on 11 March 07:00 GMT+07).
 + Reference [9780367575533](https://isbnsearch.org/isbn/9780367575533)<br>
   Jose M. Garrido, "Introduction to Computational Models with Python", Routledge, 1st edition, 2020[.](https://drive.google.com/file/d/1g5yy4Gumjgx32S5fyh_apyW87rGWAR-c/view?usp=share_link)
+
+
+## task 01
++ Create new GitHub account [here](https://github.com/signup).
++ 
++ Navigate repository `py-jupyter-nb` and [fork it](https://github.com/dudung/py-jupyter-nb/fork)
