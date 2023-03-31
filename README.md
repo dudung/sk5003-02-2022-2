@@ -20,13 +20,13 @@ Edunex [48923](https://edunex.itb.ac.id/courses/48923/preview), SK5003 Programmi
 ## lectures
 1. **Pengenalan kuliah dan pendahuluan** \
 `slide` [10.5281/zenodo.7748568](https://doi.org/10.5281/zenodo.7748568) \
-`video` [p9DSvCSrS0g](https://www.youtube.com/watch?v=p9DSvCSrS0g) \
+`video` [p9DSvCSrS0g](https://youtu.be/p9DSvCSrS0g) \
 `tugas` https://github.com/dudung/sk5003-02-2022-2/issues/1
 2. **Dasar-dasar pemrograman Python** \
 `slide` [10.5281/zenodo.7748370](https://doi.org/10.5281/zenodo.7748370) \
-`video` [_-MlGnwpDkI](https://www.youtube.com/watch?v=_-MlGnwpDkI) \
+`video` [_-MlGnwpDkI](https://youtu.be/_-MlGnwpDkI) \
 `tugas` -
 3. **Non-Python (kode pendukung)** \
 `slide` [10.5281/zenodo.7768763](https://doi.org/10.5281/zenodo.7768763) \
-`video` [](https://www.youtube.com/watch?v=) \
+`video` [3Nx6cOwdgwc](https://youtu.be/3Nx6cOwdgwc) \
 `tugas` -
