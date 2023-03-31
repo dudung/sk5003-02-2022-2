@@ -26,3 +26,7 @@ Edunex [48923](https://edunex.itb.ac.id/courses/48923/preview), SK5003 Programmi
 `slide` [10.5281/zenodo.7748370](https://doi.org/10.5281/zenodo.7748370) \
 `video` [_-MlGnwpDkI](https://www.youtube.com/watch?v=_-MlGnwpDkI) \
 `tugas` -
+3. **Non-Python (kode pendukung)** \
+`slide` [10.5281/zenodo.7768763](https://doi.org/10.5281/zenodo.7768763) \
+`video` [](https://www.youtube.com/watch?v=) \
+`tugas` -
