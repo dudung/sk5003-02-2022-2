@@ -18,24 +18,7 @@ Edunex [48923](https://edunex.itb.ac.id/courses/48923/preview), SK5003 Programmi
 
 
 ## lectures
-1. **Pengenalan kuliah dan pendahuluan** \
-`slide` [10.5281/zenodo.7748568](https://doi.org/10.5281/zenodo.7748568) \
-`video` [p9DSvCSrS0g](https://youtu.be/p9DSvCSrS0g) \
-`tugas` https://github.com/dudung/sk5003-02-2022-2/issues/1 \
-`ednex` https://edunex.itb.ac.id/courses/48923/preview/164311
-2. **Dasar-dasar pemrograman Python** \
-`slide` [10.5281/zenodo.7748370](https://doi.org/10.5281/zenodo.7748370) \
-`video` [_-MlGnwpDkI](https://youtu.be/_-MlGnwpDkI) \
-`tugas` - \
-`ednex` https://edunex.itb.ac.id/courses/48923/preview/164312
-3. **Non-Python (kode pendukung)** \
-`slide` [10.5281/zenodo.7768763](https://doi.org/10.5281/zenodo.7768763) \
-`video` [3Nx6cOwdgwc](https://youtu.be/3Nx6cOwdgwc) \
-`tugas` - \
-`ednex` https://edunex.itb.ac.id/courses/48923/preview/164313
-4. **Pemecahan masalah sederhana dan ilustrasinya dengan Python** \
-`slide` [10.5281/zenodo.7790482](https://doi.org/10.5281/zenodo.7790482) \
-`video` [Y0fqcq6w7gg](https://youtu.be/Y0fqcq6w7gg) \
-`tugas` - \
-`ednex` https://edunex.itb.ac.id/courses/48923/preview/164314
-
++ [01](note/01.md)
++ [02](note/02.md)
++ [03](note/03.md)
++ [04](note/04.md)
