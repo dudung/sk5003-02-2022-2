@@ -18,7 +18,8 @@ Edunex [48923](https://edunex.itb.ac.id/courses/48923/preview), SK5003 Programmi
 
 
 ## lectures
-+ [01](note/01.md)
-+ [02](note/02.md)
-+ [03](note/03.md)
-+ [04](note/04.md)
++ `11-mar-2023` [01](note/01/README.md)
++ `18-mar-2023` [02](note/02/README.md)
++ `25-mar-2023` [03](note/03/README.md)
++ `01-apr-2023` [04](note/04/README.md)
++ `08-apr-2023` [05](note/05/README.md)
