@@ -23,3 +23,4 @@ Edunex [48923](https://edunex.itb.ac.id/courses/48923/preview), SK5003 Programmi
 + `25-mar-2023` [Non-Python (kode pendukung)](note/03/README.md)
 + `01-apr-2023` [Pemecahan masalah sederhana dan ilustrasinya dengan Python](note/04/README.md)
 + `08-apr-2023` [Python: Import, function, class](note/05/README.md)
++ `14-apr-2023` [Sekilas Linked-list & Python](note/06/README.md)
