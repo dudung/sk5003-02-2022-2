@@ -2,5 +2,5 @@
 **Import modul built-in dan eksternal** \
 `slide` [10.5281/zenodo.](https://doi.org/10.5281/zenodo.) \
 `video` [](https://youtu.be/) \
-`tugas` [#2](https://github.com/dudung/sk5003-02-2022-2/issues/8) \
+`tugas` [3](https://github.com/dudung/sk5003-02-2022-2/issues/8) \
 `ednex` https://edunex.itb.ac.id/courses/48923/preview/168407
