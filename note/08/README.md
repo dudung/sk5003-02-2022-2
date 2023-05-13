@@ -1,7 +1,7 @@
 # 08
 **Growth model** \
 `slide` [10.5281/zenodo.7931524](https://doi.org/10.5281/zenodo.7931524) \
-`video` [-](https://youtu.be/-) \
+`video` [iGJNneAKIjQ](https://youtu.be/iGJNneAKIjQ) \
 `tugas` - \
 `ednex` https://edunex.itb.ac.id/courses/48923/preview/169335
 
