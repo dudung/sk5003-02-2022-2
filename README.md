@@ -27,3 +27,4 @@ Edunex [48923](https://edunex.itb.ac.id/courses/48923/preview), SK5003 Programmi
 + `06-may-2023` [Import modul built-in & eksternal](note/07/README.md)
 + `13-may-2023` [Growth model](note/08/README.md)
 + `20-may-2023` [Persiapan ujian tengah semester](note/09/README.md)
++ `27-may-2023` [Model empirik](note/10/README.md)
