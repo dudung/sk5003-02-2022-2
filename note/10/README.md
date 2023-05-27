@@ -1,6 +1,6 @@
 # 10
 **Model empirik** \
-`slide` [10.5281/zenodo.0](https://doi.org/10.5281/zenodo.0) \
+`slide` [10.5281/zenodo.7976249](https://doi.org/10.5281/zenodo.7976249) \
 `video` - \
 `tugas` - \
 `ednex` https://edunex.itb.ac.id/courses/48923/preview/171464
