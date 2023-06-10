@@ -1,8 +1,10 @@
 # 12
 **Model Sistem Dinamik** \
 `slide`  
-
-
+[1](https://youtu.be/Keaj_jUIows)
+[2](https://youtu.be/V_5emXIkTNc)
+[3](https://youtu.be/ZRDB1o3K-V0)
+[4](https://youtu.be/MRtcFKJ7IHg)
 
 `video` - \
 `tugas` (lihat dalam setiap slide) \
