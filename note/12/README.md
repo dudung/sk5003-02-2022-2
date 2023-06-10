@@ -1,9 +1,8 @@
 # 12
 **Model Sistem Dinamik** \
-`slide`  
-[1](https://youtu.be/Keaj_jUIows)
-[2](https://youtu.be/V_5emXIkTNc)
-[3](https://youtu.be/ZRDB1o3K-V0)
+`slide` [1](https://youtu.be/Keaj_jUIows) &bull;
+[2](https://youtu.be/V_5emXIkTNc) &bull;
+[3](https://youtu.be/ZRDB1o3K-V0) &bull;
 [4](https://youtu.be/MRtcFKJ7IHg)
 
 `video` - \
@@ -12,4 +11,3 @@
 
 + Code: butiran
   + [motion](https://github.com/dudung/butiran/blob/main/tests/motion/README.md)
-  + 
