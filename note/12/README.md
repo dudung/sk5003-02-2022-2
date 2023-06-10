@@ -5,7 +5,7 @@
 [3](https://youtu.be/ZRDB1o3K-V0) &bull;
 [4](https://youtu.be/MRtcFKJ7IHg)
 
-`video` - \
+`video` [OUQoS02ustY](https://youtu.be/OUQoS02ustY) \
 `tugas` (lihat dalam setiap slide) \
 `ednex` https://edunex.itb.ac.id/courses/48923/preview/172001
 
