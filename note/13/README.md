@@ -2,5 +2,5 @@
 **Model Optimasi Linier** \
 `slide` []() \
 `video` []() \
-`tugas` \
+`tugas` #16 \
 `ednex` https://edunex.itb.ac.id/courses/48923/preview/172311
