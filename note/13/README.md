@@ -1,6 +1,6 @@
 # 13
 **Model Optimasi Linier** \
-`slide` []() \
+`slide` [1](https://youtu.be/r_dRErqsK2o) \
 `video` []() \
 `tugas` [1](https://github.com/dudung/sk5003-02-2022-2/issues/16) &bull;
 [2](https://github.com/dudung/sk5003-02-2022-2/issues/17) &bull;
